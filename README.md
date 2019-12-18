@@ -1,6 +1,9 @@
 ## FAIR-Play Dataset from 2.5D Visual Sound
 [[Project Page]](http://vision.cs.utexas.edu/projects/2.5D_visual_sound/)    [[arXiv]](https://arxiv.org/abs/1812.04204) [[Video]](https://www.youtube.com/watch?v=Wrx3pv_ixdI)<br/>
 
+**If you have trouble in downloading the dataset through GitHub, you can also download it through [UT Box](https://utexas.app.box.com/s/t7jhi37yvp8aa41liteg5bbrrt30d4s8).**
+
+
 <img src='data_collection_rig.png' align="right" width=320>
 
 <br/>
@@ -12,7 +15,7 @@
  
 <br/>
  
-This repository (~100G) contains the FAIR-Play dataset we collected and used in our [CVPR 2019 paper](http://vision.cs.utexas.edu/projects/2.5D_visual_sound). It contains 1,871 video clips and their corresponding binaural audio clips recorded in a music room. The video clip and binaural clip of the same index are roughly aligned. The splits directory contains the 10 random splits used in the paper.        
+This repository (~100G) contains the FAIR-Play dataset we collected and used in our [CVPR 2019 paper](http://vision.cs.utexas.edu/projects/2.5D_visual_sound). It contains 1,871 video clips and their corresponding binaural audio clips recorded in a music room. The video clip and binaural clip of the same index are roughly aligned. The splits directory contains the 10 random splits used in the paper. The code is shared at [2.5D Visual Sound Code](https://github.com/facebookresearch/2.5D-Visual-Sound). 
 
 If you find our data or project useful in your research, please cite:
 
