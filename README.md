@@ -1,7 +1,7 @@
 ## FAIR-Play Dataset from 2.5D Visual Sound
 [[Project Page]](http://vision.cs.utexas.edu/projects/2.5D_visual_sound/)    [[arXiv]](https://arxiv.org/abs/1812.04204) [[Video]](https://www.youtube.com/watch?v=Wrx3pv_ixdI)<br/>
 
-**If you have trouble in downloading the dataset through GitHub, you can also download it through [UT Box](https://utexas.app.box.com/s/t7jhi37yvp8aa41liteg5bbrrt30d4s8).**
+### If you have trouble in downloading the dataset through GitHub, you can also download it through [UT Box](https://utexas.app.box.com/s/t7jhi37yvp8aa41liteg5bbrrt30d4s8).
 
 
 <img src='data_collection_rig.png' align="right" width=320>
