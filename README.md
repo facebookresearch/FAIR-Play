@@ -12,7 +12,7 @@
  
 <br/>
  
-This repository (~100G) contains the FAIR-Play dataset we collected and used in our [CVPR 2019 paper](http://vision.cs.utexas.edu/projects/2.5D_visual_sound). It contains 1,871 video clips and their corresponding binaural audio clips recorded in a music room. The video clip and binaural clip of the same index are roughly aligned. The splits directory contains the 10 random splits used in the paper. The code is shared at [2.5D Visual Sound Code](https://github.com/facebookresearch/2.5D-Visual-Sound). 
+This repository (~100G) contains the FAIR-Play dataset we collected and used in our [CVPR 2019 paper](http://vision.cs.utexas.edu/projects/2.5D_visual_sound). It contains 1,871 video clips and their corresponding binaural audio clips recorded in a music room. The video clip and binaural clip of the same index are roughly aligned. The splits directory contains the 10 random splits used in the paper. See [PseudoBinaural](https://github.com/SheldonTsui/PseudoBinaural_CVPR2021/tree/master/new_splits) for 5 more challenging splits, where there are no or less scene overlap in the training and testing splits. The code is shared at [2.5D Visual Sound Code](https://github.com/facebookresearch/2.5D-Visual-Sound). 
 
 ### Dataset Download
 1. The dataset can be downloaded by cloning the repository uisng git lfs:
